@@ -12,7 +12,10 @@ Create a new bookmark and enter the code from the selected snippet in the *URL* 
 Copy the popular ascii shrug ¯\\\_(ツ)_/¯ to your clipboard
 
 ### Chrome Picture in Picture
-Open video on web page using Chrome's Picture-in-Picture functionality
+Click to open videos using Chrome's Picture-in-Picture functionality
 
 ### Twitch Picture in Picture
-Open twitch videos using Chrome's Picture-in-Picture functionality 
+Click to open twitch videos using Chrome's Picture-in-Picture functionality 
+
+### Notepad
+Creates a new tab that is a blank text area for note taking
