@@ -1,4 +1,4 @@
-# bookmarklets
+# Bookmarklets
 Various javascript bookmarklets
 
 
@@ -6,16 +6,16 @@ Various javascript bookmarklets
 Create a new bookmark and enter the code from the selected snippet in the *URL* field of your bookmark.
 
 
-## Bookmarklets
+### Bookmarklet List
 
-### Ascii Shrug
+#### Ascii Shrug
 Copy the popular ascii shrug ¯\\\_(ツ)_/¯ to your clipboard
 
-### Chrome Picture in Picture
+#### Chrome Picture in Picture
 Click to open videos using Chrome's Picture-in-Picture functionality
 
-### Twitch Picture in Picture
+#### Twitch Picture in Picture
 Click to open twitch videos using Chrome's Picture-in-Picture functionality 
 
-### Notepad
+#### Notepad
 Creates a new tab that is a blank text area for note taking
