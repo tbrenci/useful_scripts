@@ -17,5 +17,8 @@ Click to open videos using Chrome's Picture-in-Picture functionality
 #### Twitch Picture in Picture
 Click to open twitch videos using Chrome's Picture-in-Picture functionality 
 
+#### Hulu Picture in Picture
+Click to open Hulu videos using Chrome's Picture-in-Picture functionality 
+
 #### Notepad
 Creates a new tab that is a blank text area for note taking
