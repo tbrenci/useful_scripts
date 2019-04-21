@@ -1,4 +1,4 @@
-# :bookmark: Bookmarklets 
+# Bookmarklets :bookmark: 
 Various javascript bookmarklets
 
 
