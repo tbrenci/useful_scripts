@@ -2,15 +2,15 @@
 Various javascript scripts & bookmarklets
 
 
-## How to Use
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+# How to Use
 
-# Bookmarklets: 
-
+#### Bookmarklets
 Create a new bookmark and enter the code from the selected snippet in the *URL* field of your bookmark.
 
 
-
-## Bookmarklet List
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+# Bookmarklet List
 
 #### Ascii Shrug
 Copy the popular ascii shrug ¯\\\_(ツ)_/¯ to your clipboard
