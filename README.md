@@ -12,6 +12,9 @@ Create a new bookmark and enter the code from the selected snippet in the *URL* 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 # Bookmarklet List
 
+### Expand Reddit Images
+Searching on the new reddit does not display results in the "card" format, this will expand all the images on the page
+
 #### Ascii Shrug
 Copy the popular ascii shrug ¯\\\_(ツ)_/¯ to your clipboard
 
