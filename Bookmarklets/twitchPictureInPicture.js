@@ -1,1 +1,1 @@
-javascript:{document.querySelector('video').requestPictureInPicture()};
+javascript:{document.querySelector('video').requestPictureInPicture();}
