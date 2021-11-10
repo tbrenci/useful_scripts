@@ -10,6 +10,12 @@ Create a new bookmark and enter the code from the selected snippet in the *URL* 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+# Script List
+
+### Copy GDrive to OneDrive
+Copy files from a google drive directory into one drive for quickly backuping up cloud drives
+
+&nbsp;&nbsp;
 # Bookmarklet List
 
 ### Expand Reddit Images
