@@ -21,11 +21,11 @@ Copy files from a google drive directory into one drive for quickly backuping up
 ### Expand Reddit Images
 Expands all images on the reddit page, useful for seeing images when searching without individually having to expand each image
 
-#### Picture in Picture
+### Picture in Picture
 Click to open netflix/hulu/disney+ videos using Chrome's Picture-in-Picture functionality.  May work on other video playing websites. 
 
-#### Notepad
+### Notepad
 Turns any webpage into a blank page that can be typed in for quick note taking
 
-#### Ascii Shrug
+### Ascii Shrug
 Copy the popular ascii shrug ¯\\\_(ツ)_/¯ to your clipboard
